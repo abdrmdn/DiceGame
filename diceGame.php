@@ -40,7 +40,5 @@ Class DiceGame{
 
 }
 
-$Game=new DiceGame();
-$Game->run();
 
 ?>
